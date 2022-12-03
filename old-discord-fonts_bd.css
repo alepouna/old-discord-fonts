@@ -1,0 +1,14 @@
+/**
+    * @name Old-Discord-Fonts
+    * @version 1.0.0
+    * @description Reverts the gg font update back to the old fonts
+    * @author Alepouna🌙#9824
+    *
+    * @website https://aurorais.me
+    * @source https://github.com/auroraisluna/old-discord-fonts/tree/main
+**/
+
+:root {
+    --font-primary: "Whitney", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "Whitney", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
