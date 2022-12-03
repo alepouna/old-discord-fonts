@@ -1,0 +1,18 @@
+/* ==UserStyle==
+@name         discord.com old fonts (no gg font)
+@version      20221203.16.11
+@namespace    userstyles.world/user/auroraisluna
+@description  No more gg font
+@author       auroraisluna
+@homepageURL  https://github.com/auroraisluna/old-discord-fonts
+@supportURL   https://github.com/auroraisluna/old-discord-fonts/issues
+@license      No License
+==/UserStyle== */
+
+
+@-moz-document domain("discord.com") {
+  :root {
+      --font-primary: "Whitney", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      --font-display: "Whitney", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+}
