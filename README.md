@@ -1,3 +1,5 @@
+## ⚠️⚠️⚠️ As of 29/02/2024 this repo has been moved to GitLab at https://gitlab.com/alepouna.dev/old-discord-fonts
+
 # old-discord-fonts
 
 I don't like the gg font. Reminds me to the ubuntu client when fonts are missing and it looks 💩
